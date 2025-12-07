@@ -28,6 +28,10 @@
 <p></p>
     Тепер у списку бачимо 4 товари.
 <img width="839" height="891" alt="image" src="https://github.com/user-attachments/assets/a9ae7df9-75c1-4f3a-95e8-5760a76be066" />
-<br>
-    Виконаємо метод DELETE. Видалимо
-
+<p></p>
+    Виконаємо метод DELETE. Видалимо останній товар.
+<img width="793" height="648" alt="image" src="https://github.com/user-attachments/assets/2e2631a4-74da-4ac6-b1e0-72bcc54dfef1" />
+<p></p>
+    Тепер знову переглянемо список товарів.
+<img width="1053" height="906" alt="image" src="https://github.com/user-attachments/assets/fcab09ec-5dc2-4bd7-912c-18f6f966e83f" />
+На рисунку бачимо, що товар видалився
